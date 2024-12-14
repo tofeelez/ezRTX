@@ -1,7 +1,7 @@
 {
   "format_version": "1.16.100",
   "minecraft:texture_set": {
-    "color": "crimson_log_side",
+    "color": "warped_stem_side",
     "metalness_emissive_roughness": "fungus_side_mer",
     "heightmap": "fungus_side_normal"
   }
