@@ -2,7 +2,6 @@
   "format_version": "1.16.100",
   "minecraft:texture_set": {
     "color": "creaking_heart_side_inactive",
-    "metalness_emissive_roughness": "bedrock_mer",
     "heightmap": "creaking_heart_side_normal"
   }
 }
