@@ -1,0 +1,7 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "creaking_heart_top_active",
+    "heightmap": "creaking_heart_top_normal"
+  }
+}
