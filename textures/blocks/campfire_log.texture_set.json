@@ -2,7 +2,6 @@
   "format_version": "1.16.100",
   "minecraft:texture_set": {
     "color": "campfire_log",
-    "metalness_emissive_roughness": "bedrock_mer",
     "heightmap": "campfire_log_normal"
   }
 }

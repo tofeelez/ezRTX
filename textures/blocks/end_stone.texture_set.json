@@ -2,7 +2,6 @@
   "format_version": "1.16.100",
   "minecraft:texture_set": {
     "color": "end_stone",
-    "metalness_emissive_roughness": "bedrock_mer",
     "heightmap": "end_stone_normal"
   }
 }

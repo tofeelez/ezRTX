@@ -2,7 +2,6 @@
   "format_version": "1.16.100",
   "minecraft:texture_set": {
     "color": "log_jungle",
-    "metalness_emissive_roughness": "bedrock_mer",
     "heightmap": "log_jungle_normal"
   }
 }

@@ -2,7 +2,6 @@
   "format_version": "1.16.100",
   "minecraft:texture_set": {
     "color": "mangrove_log_side",
-    "metalness_emissive_roughness": "bedrock_mer",
     "heightmap": "mangrove_log_side_normal"
   }
 }
